@@ -1,6 +1,9 @@
-0|koolproxy.txt|https://cdn.jsdelivr.net/gh/houzi-/CDN/koolproxy.txt|静态规则
-0|daily.txt|https://cdn.jsdelivr.net/gh/houzi-/CDN/daily.txt|每日规则
-0|kp.dat|https://cdn.jsdelivr.net/gh/houzi-/CDN/kp.dat|视频规则
-0|user.txt|https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/user.txt|自定义规则
-0|easylistchina.txt|https://easylist-downloads.adblockplus.org/easylistchina.txt|ABP规则
-0|anti-ad.txt|https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/adblock-for-dnsmasq.conf|anti-ad规则
+
+0|yhosts.txt|https://raw.githubusercontent.com/ycg31/KoolProxy/master/yhosts.txt|yhosts规则
+0|kp.dat|https://raw.githubusercontent.com/firkerword/ADB/master/kp.dat|视频规则
+0|user.txt||自定义规则
+0|easylistchina.txt|https://raw.githubusercontent.com/ycg31/KoolProxy/master/easylistchina.txt|ABP规则
+0|fanboy.txt|https://raw.githubusercontent.com/ycg31/KoolProxy/master/fanboy.txt|Fanboy规则
+0|mv.txt|https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt|乘风视频
+0|koolproxy.txt|https://raw.githubusercontent.com/firkerword/ADB/master/koolproxy.txt|静态规则
+0|daily.txt|https://raw.githubusercontent.com/firkerword/ADB/master/daily.txt|每日规则
